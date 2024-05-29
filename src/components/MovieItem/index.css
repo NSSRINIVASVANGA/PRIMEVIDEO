@@ -1,0 +1,25 @@
+.movie-card {
+  margin: 5px;
+}
+
+.movie {
+  width: 350px;
+}
+
+.button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.popup-con {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: right;
+}
+
+.video-con {
+  padding: 10px;
+}
